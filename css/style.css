@@ -1,0 +1,87 @@
+#main-wrap{
+	width:500px;
+	margin:70px 0px 75px 450px;
+	background:white;
+	padding:5px;
+	border-radius:10px ;
+	border:2px solid #2c3e50;
+	
+	
+}
+
+
+#login_btn{
+	width:100%;
+	margin-top:10px ;
+	padding:5px;
+	background:steelblue;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+	
+
+
+#sign_up{
+	width:100%;
+	margin-top:10px ;
+	padding:5px;
+	background:steelblue;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+#back_btn{
+	width:30%;
+	margin-top:10px;
+	padding:5px;
+	background:#f368e0;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
+
+.th{
+	width:150px;
+	text-align:center;
+	border-radius:90%;
+	
+	
+}
+.myform{
+	width:450px;
+	margin:0 auto;
+	
+	
+	
+	
+}
+
+.inputvalues{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+	
+}
+
+
+
+
+.the{
+	width:500px;
+	text-align:center;
+	border-radius:90%;
+}
+.bac{
+	background: #83a4d4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #b6fbff, #83a4d4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #b6fbff, #83a4d4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
